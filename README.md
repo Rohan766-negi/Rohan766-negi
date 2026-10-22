@@ -24,11 +24,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark)
 
-## 🚀 Codolio DSA Stats
+## 🧠 Codolio DSA Stats
 
-[![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-7057ff?style=for-the-badge)](https://codolio.com/profile/rohan0001)
+[![Codolio Card](https://img.shields.io/badge/Codolio-View%20My%20DSA%20Card-7057ff?style=for-the-badge)](https://codolio.com/profile/rohan0001/card)
 
-![Codolio DSA Stats](https://dsastats.vercel.app/api/codolio/rohan0001)
+[![Codolio Profile](https://img.shields.io/badge/Codolio-View%20Full%20Profile-black?style=flat-square)](https://codolio.com/profile/rohan0001)
 
 ## 💻 Coding Profiles
 
