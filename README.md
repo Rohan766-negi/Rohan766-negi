@@ -18,11 +18,12 @@
 
 
 
-## 🧠 LeetCode
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohannegi__/)
+## 🧠 LeetCode Stats
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark&ext=heatmap)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rohannegi__/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark)
 
 
 
