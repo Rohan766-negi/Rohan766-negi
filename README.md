@@ -18,18 +18,22 @@
 
 
 
-
 ## 🧠 LeetCode Stats
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rohannegi__/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rohannegi__/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark)
-[![Code360](https://img.shields.io/badge/Code360-Profile-blue?style=flat-square)](https://www.naukri.com/code360/profile/bc877358-eb62-4675-be08-e179942cbf8d)
 
+## 🚀 Codolio DSA Stats
+
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-7057ff?style=for-the-badge)](https://codolio.com/profile/rohan0001)
+
+![Codolio DSA Stats](https://dsastats.vercel.app/api/codolio/rohan0001)
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohannegi__/)
+[![Code360](https://img.shields.io/badge/Code360-Profile-blue?style=flat-square)](https://www.naukri.com/code360/profile/bc877358-eb62-4675-be08-e179942cbf8d)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/newid1041)
 
 
