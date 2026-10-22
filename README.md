@@ -24,6 +24,7 @@
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Rohannegi__/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark)
+[![Code360](https://img.shields.io/badge/Code360-Profile-blue?style=flat-square)](https://www.naukri.com/code360/profile/bc877358-eb62-4675-be08-e179942cbf8d)
 
 
 ## 💻 Coding Profiles
