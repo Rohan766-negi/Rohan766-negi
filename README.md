@@ -26,6 +26,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohannegi__?theme=dark)
 
 
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohannegi__/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/newid1041)
+
 
 
 # 📊 GitHub Stats:
